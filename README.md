@@ -6,3 +6,8 @@ projet minizinc réalisé par :
 * Maxence Marot (exo 2)
 * Maignan Quentin (exo 2)
 * Chafik Akmouche (exo 3)
+
+differents exos :
+1. NQueens
+2. Garam
+3. Rikudo
