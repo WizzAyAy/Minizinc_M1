@@ -11,3 +11,5 @@ differents exos :
 1. NQueens
 2. Garam
 3. Rikudo
+
+![alt text](https://www.minizinc.org/doc-2.2.0/en/static/MiniZn_logo_2.svg)
