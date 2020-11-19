@@ -12,4 +12,7 @@ differents exos :
 2. Garam
 3. Rikudo
 
+google slide de la présentation : 
+https://docs.google.com/presentation/d/16Wbc3xT29a9aLTRGpU5dyR27R75lCMzwjMXl0GK8f1w/edit?usp=sharing
+
 ![alt text](https://www.minizinc.org/doc-2.2.0/en/static/MiniZn_logo_2.svg)
